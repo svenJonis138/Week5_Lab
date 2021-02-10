@@ -1,7 +1,8 @@
 import data_base_controls
 
-"""Just checking check one more thing"""
+
 def main():
+    """main function creates table if not exists and for the sample data uncomment the sample data function"""
     while True:
         data_base_controls.create_table()
         # data_base_controls.insert_sample_data()
