@@ -1,6 +1,6 @@
 import data_base_controls
 
-"""Just checking"""
+"""Just checking check one more thing"""
 def main():
     while True:
         data_base_controls.create_table()
